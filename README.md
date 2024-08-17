@@ -1,1 +1,2 @@
 # Arboles-de-Machine-Learning
+Los árboles de decisión son un tipo popular de algoritmo de Machine Learning utilizado tanto para problemas de clasificación como de regresión. Funcionan dividiendo repetidamente el espacio de datos en subconjuntos más pequeños, utilizando reglas de decisión basadas en los atributos de los datos. Estos árboles son intuitivos y fáciles de interpretar, lo que los hace útiles para muchos problemas prácticos.
